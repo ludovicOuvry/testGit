@@ -1,1 +1,1 @@
-fichier à lire 
+Mettre en place un Hello-word avec kubernetes, docker, ansible et jenkins  pour avoir une CI/CD complète. 
